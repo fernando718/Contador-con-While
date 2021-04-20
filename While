@@ -1,0 +1,11 @@
+Main()
+{
+    i = 1;  //Inicializando una variable con un valor//main()
+    x = i;
+    DO 
+    {
+        printf (x);
+        x++;
+    } while (x<101);
+    printf("adios");
+}
